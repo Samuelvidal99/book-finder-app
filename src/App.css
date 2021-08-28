@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: #c4c4c493;
+  width: 500px;
+  height: 250px;
+  border-radius: 10px;
+}
+
+.div01 {
+  margin-top: 15%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newDiv {
+  text-align: center;
+  margin-top: -13%;
+  height: 600px;
+  background-color: #c4c4c493;
+  width: 95%;
+  border-radius: 10px;
+}
+
+.newDiv02 {
+  margin-top: -300px;
+  margin-left: 270px;
+  width: 600px;
+  height: 200px;
+  word-wrap: break-word;
+}
+
+.inputBox {
+  margin-top: 5%;
+  width: 400px;
+  height: 30px;
+}
+
+.submitForm {
+  margin-top: 1%;
+  width: 150px;
+  height: 30px;
+}
+

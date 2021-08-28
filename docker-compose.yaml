@@ -1,0 +1,15 @@
+version: '3.3'
+
+services: 
+  react:
+    build: 
+      context: .
+      dockerfile: react.dockerfile
+    ports: 
+    - 3000:3000
+    volumes: 
+    - ./src:/app/src
+    stdin_open: true
+    # tty: true
+    env_file: 
+     - ./env/frontend.env
