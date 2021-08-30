@@ -34,6 +34,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### `docker-compose up`
 
+E é preciso criar uma pasta chamada <b>env</b>, nessa pasta é preciso acrescentar um arquivo <b>frontend.env</b> e nesse arquivo é preciso especificar um variável ambiente dessa maneira:
+
+### `API_KEY=<your-google-book-api-key>`
+
+Essa variável API_KEY é necessária para enviar o request para a <b>Google Books API</b> e pode ser criada neste <a href="https://developers.google.com/books/docs/v1/using#APIKey">link</a>.
+
 <p1>Dessa maneira a aplicação iniciará o servidor na porta:3000 - acesse </p1><a href='http://localhost:3000'>http://localhost:3000</a>
 <h1>Status do Projeto</h1>
 <h4>Finalizado :white_check_mark:</h4>
