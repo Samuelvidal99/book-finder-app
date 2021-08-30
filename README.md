@@ -1,6 +1,6 @@
 <h1 align="center">Book Finder App</h1>
 
-<img align="center" src='https://img.shields.io/github/license/Samuelvidal99/book-finder-app'></img>
+[![GitHub license](https://img.shields.io/github/license/Samuelvidal99/book-finder-app)](https://github.com/Samuelvidal99/book-finder-app/blob/master/LICENSE)
 
 <p align="center">Essa aplicação fornece uma maneira rápida e prática de pesquisar informações relevantes sobre obras literárias.</p>
 
