@@ -23,11 +23,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Docker](https://www.docker.com/)
 
 <h1>Requisitos</h1>
 <p1>Para utilizar essa aplicação basta possuir uma versão do docker-compose 1.17.1, ou superior, baixar a aplicação e iniciar usando o comando: <br></p1>
@@ -37,6 +35,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p1>Dessa maneira a aplicação iniciará o servidor na porta:3000 - acesse </p1><a href='http://localhost:3000'>http://localhost:3000</a>
 <h1>Status do Projeto</h1>
 <h4>Finalizado :white_check_mark:</h4>
+
+<h1>Autor</h1>
+<a href="https://github.com/Samuelvidal99"><sub><b>Samuel Vidal</b></sub></a><br><br>
+Feito por <b>Samuel Vidal</b>, Entre em contato por: 
+
+[![Gmail Badge](https://img.shields.io/badge/-samuelvsantos2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelvsantos2018@gmail.com)](mailto:samuelvsantos2018@gmail.com)
 
 
 
