@@ -29,6 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [Docker](https://www.docker.com/)
 - [SweetAlert2](https://sweetalert2.github.io)
+- [Google Books API](https://developers.google.com/books/docs/v1/using)
 
 <h1>Requisitos</h1>
 <p1>Para utilizar essa aplicação basta possuir uma versão do docker-compose 1.17.1, ou superior, baixar a aplicação e iniciar usando o comando: <br></p1>
